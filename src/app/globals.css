@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme{
+  --color-black: #090909;
+  --color-bgForm: #3535356b;
+}
+
